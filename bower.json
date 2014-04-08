@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "bootstrap-sass": "~3.0.2"
+  },
+  "devDependencies": {}
+}
